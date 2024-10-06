@@ -7,5 +7,5 @@
 I’m currently developing my skills in the following areas
 - **Deep Learning**
 - **Explainable AI**
-- - **AI in Finance**
+- **AI in Finance**
 
